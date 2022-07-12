@@ -1,4 +1,4 @@
-# Dr. Bryngelson's personal website template
+# Dr. Bryngelson's personal website template 
 
 **Note: I do not use this Jekyll webpage anymore, as my new research group webpage is located at https://comp-physics.group, but it can still be used as a template.**
 
